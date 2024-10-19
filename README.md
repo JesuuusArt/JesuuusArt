@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFxMDVkeGV4a2FtcTRwbzZpdmswd3Y4MzA0aXhjazJocjlpd3FrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKFL1EISkk8VKNO/giphy.gif" width="200">
-  <h1 style="font-size: 32px; margin-top: 10px;">Bienvenid@ a mi GitHub 👋 <br/> Jesuuus Artiaga :)</h1>
-  <h3 style="font-size: 24px; color: #3498DB;">
-    Software Developer <strong style="color: #E74C3C;">in Progress</strong>
-  </h3>
+  <h1>Bienvenid@ a mi GitHub 👋 <br/> Jesuuus Artiaga :)</h1>
+  <h3>💻<em> Software Developer <strong>in Progress</strong></em></h3>
 </div>
 
 <p align="center">
@@ -41,6 +39,6 @@ Hola, soy Jesus, un entusiasta de la programación que siempre busca aprender co
 
 ---
 
-<p align="center" style="font-size: 20px; font-weight: bold;">
+<h3 align="center">
   "Aprendiendo a crear, una línea de código a la vez." 💡
-</p>
+</h3>
