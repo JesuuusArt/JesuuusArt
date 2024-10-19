@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFxMDVkeGV4a2FtcTRwbzZpdmswd3Y4MzA0aXhjazJocjlpd3FrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKFL1EISkk8VKNO/giphy.gif" width="200">
-  <h1>Bienvenid@ a mi GitHub 👋 <br/> Jesuuus Artiaga :)</h1>
+  <h1>Bienvenid@ a mi GitHub 👋 <br/> Jesuuus Artiaga 😎</h1>
   <h3>💻<em> Software Developer <strong>in Progress</strong></em></h3>
 </div>
 
 <p align="center">
-Hola, soy Jesus, un entusiasta de la programación que siempre busca aprender cosas nuevas.
+Hola, soy Jesus, un entusiasta de la programación que siempre busca aprender cosas nuevas. 👨‍💻
 </p>
 
 <div align="center">
