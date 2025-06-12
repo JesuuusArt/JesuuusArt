@@ -2,7 +2,7 @@
   <img src="loading.gif" alt="Loading"
   />
   
-  <h1>Hola, soy <strong>Jesús Artiaga</strong></h1>
+  <h1>Hola, soy <strong>Jesus Artiaga</strong></h1>
   <h3>💻 Software Developer <em>in Progress</em></h3>
 </div>
 
@@ -78,19 +78,9 @@ Soy estudiante de Técnico Superior Universitario en Desarrollo de Software en l
 
 ---
 
-<div style="background-color:#000; padding:10px; border-radius:8px; max-width:650px; margin:auto;">
-  <p style="color:#00FF00; font-family:'Courier New', Courier, monospace; font-size:12px; white-space: nowrap; overflow: hidden; border-right: .15em solid #00FF00; width: 78ch; animation: typing 8s steps(78), blink 0.75s step-end infinite; margin:0;">
-    "Aprendiendo a crear, una línea de código a la vez." 💡
-  </p>
-</div>
+<h3 align="center">
+"Aprendiendo a crear, una línea de código a la vez." 💡
+</h3>
 
-<style>
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 78ch }
-  }
-  @keyframes blink {
-    50% { border-color: transparent }
-  }
-</style>
+---
 
